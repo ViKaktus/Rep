@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de28cc54-3601-4617-8ea3-7034a0103886" name="Changes" comment="new file">
-      <change afterPath="$PROJECT_DIR$/newtry/fpages/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/newtry/templates/flatpages/contact_page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/newtry/templates/flatpages/default.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/newtry/templates/flatpages/double.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="de28cc54-3601-4617-8ea3-7034a0103886" name="Changes" comment="new file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -41,7 +35,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "Python.settings.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="RecentsManager">
